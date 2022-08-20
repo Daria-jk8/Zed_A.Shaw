@@ -1,3 +1,21 @@
+# add from other project
+.DS_Store
+
+# Editors directories and files / IDE
+.idea/
+.vscode/
+.devcontainer/
+
+# PythonP
+__pycache__/
+
+# SQLite
+*sqlite*
+
+# local env files 
+*.env
+*.env.default
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
