@@ -21,8 +21,3 @@
 | \v         | ASCII vertical tab(VT)                                     |
 | \ooo       | character with octal value ooo                             |
 | \xhh       | character with value hh                                    |
-
-#### TO DO:
-
-- 22.py summarize all the studied code from 1 to 21.py
-- comments + description to 26.py - quiz
